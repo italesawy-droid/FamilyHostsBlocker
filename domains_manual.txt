@@ -1,0 +1,9 @@
+# FamilyHostsBlocker manual domains.
+# Add one domain per line.
+#
+# Examples:
+# example.com
+# sub.example.com
+#
+# Do not add http:// or https://.
+# This file is merged with external-source domains.

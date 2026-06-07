@@ -1,0 +1,5 @@
+# Disabled or candidate sources.
+# Move a URL from sources_enabled.txt to this file to disable it later.
+#
+# Keep this file for sources that are too aggressive, unstable, duplicated,
+# slow, or temporarily unsuitable.

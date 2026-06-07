@@ -1,0 +1,14 @@
+# FamilyHostsBlocker enabled external sources.
+# One URL per line. Lines starting with # are ignored.
+#
+# StevenBlack hosts - porn extension.
+https://raw.githubusercontent.com/StevenBlack/hosts/master/alternates/porn/hosts
+
+# Block List Project - porn domain list.
+https://raw.githubusercontent.com/blocklistproject/Lists/master/porn.txt
+
+# OISD NSFW - wildcard/domain list.
+https://nsfw.oisd.nl/domainswild2
+
+# HaGeZi NSFW - wildcard domain list.
+https://raw.githubusercontent.com/hagezi/dns-blocklists/main/wildcard/nsfw-onlydomains.txt

@@ -1,0 +1,11 @@
+# FamilyHostsBlocker allowlist.
+# Add domains here that must never be blocked, even if an external source includes them.
+#
+# Exact allowlist:
+# example.com
+#
+# Suffix allowlist:
+# *.example.com
+# .example.com
+#
+# Suffix allowlist removes both example.com and all subdomains below it.
